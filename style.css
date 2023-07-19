@@ -1,0 +1,92 @@
+title{
+  color: white;
+}body{
+    font-family: 'Comfortaa', cursive;
+    color: rgba(216, 138, 95, 0.749);
+}
+h4{
+  font-weight: 100;
+}
+h3{
+  font-weight: 600;
+}
+    .box1 {
+        width: 1000px;
+        height: 600px;
+        border: 1px solid black dotted;
+        padding: 10px;
+        margin: 10px;
+        background-color: blanchedalmond;
+        border-radius: 25px;
+        position: ;
+      }
+      .box2 {
+        width: 1000px;
+        height: 600px;
+        border: 1px solid black dotted;
+        padding: 10px;
+        margin: 10px;
+        background-color:antiquewhite;
+        border-radius: 25px;
+        position: ;
+      }
+      .box3 {
+        width: 1000px;
+        height: 600px;
+        border: 1px solid black dotted;
+        padding: 10px;
+        margin: 10px;
+        background-color:beige ;
+        border-radius: 25px;
+        position: ;
+      }
+      .box4 {
+        width: 1000px;
+        height: 600px;
+        border: 1px solid black dotted;
+        padding: 10px;
+        margin: 10px;
+        background-color:bisque;
+        border-radius: 25px;
+        position: ;
+      }
+      .box5 {
+        width: 1000px;
+        height: 600px;
+        border: 1px solid black dotted;
+        padding: 10px;
+        margin: 10px;
+        background-color:rgb(255, 225, 179);
+        border-radius: 25px;
+        position: ;
+      }
+      .box6 {
+        width: 1000px;
+        height: 600px;
+        border: 1px solid black dotted;
+        padding: 10px;
+        margin: 10px;
+        background-color: blanchedalmond;
+        border-radius: 25px;
+        position: ;
+      }
+      .box7 {
+        width: 1000px;
+        height: 600px;
+        border: 1px solid black dotted;
+        padding: 10px;
+        margin: 10px;
+        background-color:beige;
+        border-radius: 25px;
+        position: ;
+      }
+      .box8 {
+        width: 1000px;
+        height: 600px;
+        border: 1px solid black dotted;
+        padding: 10px;
+        margin: 10px;
+        background-color:bisque;
+        border-radius: 25px;
+        position: ;
+      }
